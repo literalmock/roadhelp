@@ -1,0 +1,24 @@
+[ {
+    "question": "What is RoadHelp?",
+    "answer": "RoadHelp is a Progressive Web App (PWA) that connects vehicle owners with nearby mechanics for urgent roadside assistance. It ensures quick and reliable help during emergencies like breakdowns, flat tires, battery issues, or fuel shortages."
+  },
+  {
+    "question": "How do I request roadside assistance?",
+    "answer": "Simply log in to your RoadHelp account, click on 'Find Help', and choose the service you need. The app will show available mechanics near your location. Select a mechanic and submit your request."
+  },
+  {
+    "question": "Is my location shared with the mechanic?",
+    "answer": "Yes, to provide fast assistance, your live location is securely shared with the selected mechanic so they can reach you quickly."
+  },
+  {
+    "question": "Can I track the mechanic in real-time?",
+    "answer": "Yes, once a mechanic accepts your request, you can track their location and estimated arrival time directly from the app."
+  },
+  {
+    "question": "What services does RoadHelp cover?",
+    "answer": "RoadHelp provides services like tire puncture repair, fuel delivery, towing assistance, battery jump start, key lockout help, and instant on-road repairs."
+  },
+  {
+    "question": "How do I pay for the service?",
+    "answer": "You can pay the mechanic directly after the service is completed. Online payment integration is coming soon for a more seamless of each application."
+  }]

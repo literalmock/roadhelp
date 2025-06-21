@@ -1,0 +1,47 @@
+[
+  {
+    "name": "hero_banner",
+    "path": "/banners/banner1.jpg",
+    "id": 1
+  },
+  {
+    "name": "roadside_assistance",
+    "path": "/banners/banner2.jpg",
+    "id": 2
+  },
+  {
+    "name": "quick_repair",
+    "path": "/banners/banner3.jpg",
+    "id": 3
+  },
+  {
+    "name": "find_mechanic",
+    "path": "/banners/banner4.jpg",
+    "id": 4
+  },
+  {
+    "name": "battery_jumpstart",
+    "path": "/banners/banner5.jpg",
+    "id": 5
+  },
+  {
+    "name": "towing_service",
+    "path": "/banners/banner6.jpg",
+    "id": 6
+  },
+  {
+    "name": "fuel_delivery",
+    "path": "/banners/banner7.jpg",
+    "id": 7
+  },
+  {
+    "name": "key_lockout_help",
+    "path": "/banners/banner8.jpg",
+    "id": 8
+  },
+  {
+    "name": "instant_car_sell",
+    "path": "/banners/banner9.jpg",
+    "id": 9
+  }
+]
