@@ -1,6 +1,6 @@
 # 🚗 Roadhelp — Instant Roadside Assistance
 
-**Roadhelp** is a web-based roadside assistance platform that connects drivers with nearby, verified mechanics in real-time. Inspired by apps like Zomato and Swiggy — but for urgent vehicle help — Roadhelp ensures you get back on the road safely and quickly, anytime, anywhere.
+**Roadhelp** is a web-based roadside assistance platform that connects drivers with nearby, verified mechanics in real-time. Inspired by apps but for urgent vehicle help — Roadhelp ensures you get back on the road safely and quickly, anytime, anywhere.
 
 ---
 
