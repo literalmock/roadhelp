@@ -1,12 +1,27 @@
-# React + Vite
+# 🚗 Roadhelp — Instant Roadside Assistance
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Roadhelp** is a web-based roadside assistance platform that connects drivers with nearby, verified mechanics in real-time. Inspired by apps like Zomato and Swiggy — but for urgent vehicle help — Roadhelp ensures you get back on the road safely and quickly, anytime, anywhere.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Features
 
-## Expanding the ESLint configuration
+✅ **Locate Nearby Mechanics** — Instantly find trusted mechanics close to your location.  
+⚡ **Fast Response Time** — Average response time is under 5 minutes in most areas.  
+🔐 **Secure Authentication** — User-friendly login and signup using Clerk.  
+📊 **Partner Management** — Mechanics can register and manage their services.  
+🗺️ **Modern UI** — Clean, responsive design built with React, Tailwind CSS, and shadcn/ui.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, Vite, Tailwind CSS, shadcn/ui  
+- **Backend:** Nodejs
+- **Database:** Supabase (for additional user sync)  
+- **Authentication:** Clerk  
+- **Deployment:** (pending)
+
+---
+
+
