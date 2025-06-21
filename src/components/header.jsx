@@ -1,10 +1,11 @@
-import { Link, useSearchParams } from 'react-router-dom';
+import { Link, redirect, useSearchParams } from 'react-router-dom';
 import { Button } from './ui/button';
 import {
   UserButton,
   SignedIn,
   SignedOut,
   SignInButton,
+  SignUpButton,
   SignIn,
 } from '@clerk/clerk-react';
 import { useState, useEffect } from 'react';
@@ -33,11 +34,16 @@ const Header = () => {
           <img src="/logo.png" className="h-14" alt="Logo" />
         </Link>
 
-        <SignedOut>
-          <SignInButton mode="modal" onClick={() => setShowSignIn(true)}>
-            <Button variant="ghost">Log in / Sign up</Button>
-          </SignInButton>
-        </SignedOut>
+       <SignedOut>
+  <div className="flex items-center gap-2">
+    <SignInButton mode="modal">
+      <Button variant="ghost">Log in</Button>
+    </SignInButton>
+    <SignUpButton mode="modal">
+      <Button variant="ghost">Sign up</Button>
+    </SignUpButton>
+  </div>
+</SignedOut>
 
         <SignedIn>
           <UserButton
